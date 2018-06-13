@@ -1,0 +1,9 @@
+[13-Jun-2018 08:46:02 America/Chicago] PHP Fatal error:  Call to a member function cadastro() on null in /home/fernand6/public_html/teste/application/controllers/Cliente.php on line 25
+[13-Jun-2018 08:46:22 America/Chicago] PHP Fatal error:  Call to a member function initialize() on null in /home/fernand6/public_html/teste/application/models/Cliente_model.php on line 16
+[13-Jun-2018 08:46:54 America/Chicago] PHP Fatal error:  Call to a member function initialize() on null in /home/fernand6/public_html/teste/application/models/Cliente_model.php on line 16
+[13-Jun-2018 10:03:23 America/Chicago] PHP Fatal error:  Call to undefined function lang() in /home/fernand6/public_html/teste/application/views/cliente/cliente.php on line 66
+[13-Jun-2018 10:03:48 America/Chicago] PHP Fatal error:  Call to undefined function lang() in /home/fernand6/public_html/teste/application/views/cliente/cliente.php on line 66
+[13-Jun-2018 10:03:51 America/Chicago] PHP Fatal error:  Call to undefined function lang() in /home/fernand6/public_html/teste/application/views/cliente/cliente.php on line 66
+[13-Jun-2018 10:04:03 America/Chicago] PHP Fatal error:  Call to undefined function lang() in /home/fernand6/public_html/teste/application/views/cliente/cliente.php on line 66
+[13-Jun-2018 12:19:44 America/Chicago] PHP Fatal error:  Call to a member function post() on null in /home/fernand6/public_html/teste/application/controllers/Troco.php on line 14
+[13-Jun-2018 13:18:27 America/Chicago] PHP Fatal error:  Call to undefined method Troco::inject() in /home/fernand6/public_html/teste/application/controllers/Troco.php on line 14
